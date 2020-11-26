@@ -1,0 +1,23 @@
+*{
+    font-family: "Century Gothic";
+}
+
+.intro_text h3{
+    font-weight: bold;
+    font-size: 150%;
+}
+
+#menu_elements{
+    font-weight: bolder;
+    font-size: 100% ;
+}
+#footer{
+    font-weight: bold;
+}
+#menu_elements li > a {
+    font-size: 150%;
+}
+
+.modal_close{
+    font-size: smaller;
+}

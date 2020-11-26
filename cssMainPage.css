@@ -1,0 +1,115 @@
+.main-text {
+    padding: 50px;
+}
+
+.introduction {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.introduction img {
+    width: 100%;
+    height: auto;
+
+    margin-bottom: 50px;
+}
+
+#navigation_bar li{
+    text-align: center;
+    width: 20%;
+    min-width: 130px;
+}
+
+#sign_in_button {
+    position: absolute;
+    right: 110px;
+    top: 10px;
+}
+
+#sign_up_button {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}
+
+.contact-us-section{
+    margin: 30px 0px 30px;
+}
+
+
+
+.carousel-div{
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+#carouselExampleIndicators {
+    position: relative;
+}
+
+#carouselExampleIndicators p {
+    color: #2c2c2c;
+    background-color: rgb(218, 231, 239);
+    border-radius: 10px;
+}
+
+.carousel-item > div {
+    position: absolute;
+    bottom: 0;
+}
+
+
+#gallery img {
+    margin: 10px 0 10px;
+}
+
+#header {
+
+    background-image: url("images/backg1.jpg");
+    height: 600px;
+    background-attachment: fixed;
+    background-position: left;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+    filter: grayscale(60%);
+}
+
+#fixed_image1{
+    background-image: url("images/fixedimage1.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    margin: 30px 0 30px;
+}
+
+
+#fixed_image2{
+    background-image: url("images/fixedimage2.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+    background-repeat: no-repeat;
+    margin: 30px 0 30px;
+}
+
+#map {
+    margin: 60px 0 30px;
+}
+
+#date_picker_section .input-group{
+    margin: 20px 0 20px;
+}
+
+
+#footer {
+    margin-bottom: 50px;
+}
+#footer a{
+    margin-bottom: 10px;
+}
